@@ -1,12 +1,6 @@
-# Ivyn-JasonHi there, I'm S. Ivyn Jason! 👋
+I'm S. Ivyn Jason! 👋
 
 👨‍💻 B.Tech Information Technology Student | Aspiring Full-Stack Developer | Future Software Engineer 🚀
-
-""GitHub" (https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)" (YOUR_GITHUB_URL)
-""LinkedIn" (https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)" (YOUR_LINKEDIN_URL)
-""Email" (https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)" (mailto:ivyns2252@gmail.com)
-
----
 
 📖 About Me
 
@@ -174,7 +168,7 @@ I'm always interested in learning, collaborating on software projects, and conne
 
 📧 Email: "ivyns2252@gmail.com" (mailto:ivyns2252@gmail.com)
 
-💻 GitHub: "Visit My GitHub Profile" (YOUR_GITHUB_URL)
+💻 GitHub:https://github.com/ivynjason/Ivyn-Jason/edit/main/README.md)
 
 💼 LinkedIn: "Connect With Me" (YOUR_LINKEDIN_URL)
 
